@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ruan Bahia
@@ -50,7 +50,7 @@ career-profile:
 
 education:
     - degree: BEng Computer Engineering
-      university: University of Vale do São Francisco (Univasf)
+      university: Federal University of Vale do São Francisco (Univasf)
       time: 2014 - 2020
       details: |
         General knowledge in computer programming, with disciplines focused
@@ -71,15 +71,18 @@ education:
           - [Research on the performance of Information Retrieval based features for Text Mining tasks](https://github.com/ruanmed/tcc-ii-ir-features-text-mining)
 
 experiences:
-    - role: Developer
+    - role: Software Developer
       time: 2019 - present
-      company: [Hectares](https://hectares.tech/), Juazeiro
+      company: Hectares, Juazeiro
+      company_link: https://hectares.tech/
       details: |
-        PHP & Laravel backend development, Javascript & Vue frontend development.
+        PHP &amp; Laravel backend development, Javascript &amp; Vue frontend development.
         DevOps delivery in Digital Ocean droplets.
+
     - role: Computer Engineering Intern
       time: 2018 - 2019
-      company: [Committee for Assessment (CPA/Univasf)](http://www.cpa.univasf.edu.br/), University of Vale do São Francisco, Juazeiro
+      company: Committee for Assessment (CPA/Univasf), Federal University of Vale do São Francisco, Juazeiro 
+      company_link: http://www.cpa.univasf.edu.br/
       details: |
         Subsidy for the actions of the commission which required specialized 
         assistance in the area of Computer Engineering, including the development
@@ -95,8 +98,8 @@ experiences:
           - Assisting in planning, organization and forwarding the commission decisions;
           - Implementation and maintenance of systems using HTML, CSS, PHP, Javascript and SQL databases;
           - Maintenance and update of CPA web systems;
-          - Advise CPA members by collecting necessary information to achieve CPA goals, assisting in the statistical treatment o the collected data;
-          - Organization and promotion of maintenance in the CPA database, and collaboration in writing and formatting CPA reports.
+          - Advisement of CPA members by collecting necessary information to achieve CPA goals, assisting in the statistical treatment o the collected data;
+          - Organization and promotion of maintenance in the CPA databases, and collaboration in writing and formatting CPA reports.
 
 projects:
     title: Projects
