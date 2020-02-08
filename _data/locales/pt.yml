@@ -46,9 +46,14 @@ pt:
   career-profile:
       title: Perfil Profissional
       summary: | # Summarise your career here 
-        Experiência em diversas linguagens de programação web, desktop, móveis e embarcadas.
-        Experiência em Mineração de Dados, e também em Mineração de Texto com foco em Perfis de Autoria, utilizando Python.
-        Interessado no desenvolvimento de sistemas multiplataforma e aplicações de Mineração de Dados e de Textos.
+        Experiência em diversas linguagens de programação web, desktop, 
+        móveis e embarcadas. 
+        <br>
+        Experiência em Mineração de Dados, e também em Mineração de Texto
+        com foco em Perfis de Autoria, utilizando Python. 
+        <br>
+        Interessado no desenvolvimento de sistemas multiplataforma e 
+        aplicações de Mineração de Dados e de Textos.
 
   education:
     title: Educação
@@ -57,23 +62,26 @@ pt:
         university: Universidade Federal do Vale do São Francisco (Univasf)
         time: 2014 - 2020
         details: |
-          General knowledge in computer programming, with disciplines focused
-          in C, C++ and Java. 
-          Concepts of software engineering developed in theoretical study and
-          developing academic projects in group.
-          Computer architecture and networks knowledge, and development 
-          of embedded systems projects during the course.
-          Participation in Embedded Systems Competitions promoted in SBESC 
-          2016 and SBESC 2019, with team development of the projects Radar³ and 
-          busComfort.
-          Artificial Inteligence background with focus in Data Mining, 
-          participating in Data Mining Cup 2019.
-          Final course project research about Text Mining, producing the 
-          __Research about the performance of Information Retrieval based 
-          features for Text Mining tasks__.
+          Conhecimento geral em programação de computadores, com disciplinas
+          focadas em C, C++ e Java.
+          Conceitos de engenharia de software desenvolvidos por meio de 
+          estudo teórico e por meio de projetos acadêmicos em equipe.
+          Conhecimento da arquitetura de computadores e de redes de 
+          computadores, projeto e desenvolvimento de sistemas embarcados 
+          durante o curso.
+          <br>
+          Participação nas Competições de Sistemas Embarcados promovidas na 
+          SBESC 2016 e na SBESC 2019, com o desenvolvimento em equipe dos 
+          projetos Radar³ e busComfort.
+          Experiência com inteligência artificial com foco em Mineração de 
+          Dados, participando da Data Mining Cup 2019. 
+          <br>
+          Trabalho de conclusão de curso sobre Mineração de Texto, produzindo
+          o __Estudo investigativo sobre o desempenho de atributos de 
+          Recuperação de Informação em tarefas de Mineração de Texto__.
             - [busComfort](https://gitlab.com/buscomfort/)
             - [DMC 2019 - Participation](https://gitlab.com/jramorim1/dmc-2019---univasf/)
-            - [Research on the performance of Information Retrieval based features for Text Mining tasks](https://github.com/ruanmed/tcc-ii-ir-features-text-mining/)
+            - [Estudo investigativo sobre o desempenho de atributos de Recuperação de Informação em tarefas de Mineração de Texto](https://github.com/ruanmed/tcc-ii-ir-features-text-mining/)
 
   experiences:
     title: Experiência
@@ -83,7 +91,7 @@ pt:
         company: Hectares, Juazeiro
         company_link: https://hectares.tech/
         details: |
-          Desenvolvido backend em PHP &amp; Laravel, e desenvolvimento frontend em JavaScript &amp; Vue.
+          Desenvolvimento back-end em PHP &amp; Laravel, e desenvolvimento front-end em JavaScript &amp; Vue.
           Distribuição DevOps em droplets do Digital Ocean.
 
       - role: Estagiário de Engenharia de Computação
@@ -91,47 +99,52 @@ pt:
         company: Comissão Própria de Avaliação (CPA/Univasf), Universidade Federal do Vale do São Francisco, Juazeiro 
         company_link: http://www.cpa.univasf.edu.br/
         details: |
-          Subsidy for the actions of the commission which required specialized 
-          assistance in the area of Computer Engineering, including the development
-          and maintenance of the commission's own systems, under supervision of
+          Subsídio para as ações da comissão que necessitavam de assistência
+          especializada na área de Engenharia de Computação, incluindo o 
+          desenvolvimento e manutenção dos sistemas próprios da comissão, sob
+          supervisão da
           [Profa. Dra. Michelle Christini Araújo Vieira](http://lattes.cnpq.br/9372845638085633),
-          then president of CPA, and under orientation of 
+          então presidente da CPA, e sob orientação do
           [Prof. Dr. Max Santana Rolemberg Farias](http://docentes.univasf.edu.br/max.santana/).
-          A major contribution during this internship was the set of improvements
-          made to the half-yearly evaluation system of CPA, which is a 
-          model-view-control web system programmed in Groovy and Java using a MySQL
-          database.
-          Responsabilities during this internship included:
-            - Assisting in planning, organization and forwarding the commission decisions;
-            - Implementation and maintenance of systems using HTML, CSS, PHP, JavaScript and SQL databases;
-            - Maintenance and update of CPA web systems;
-            - Advisement of CPA members by collecting necessary information to achieve CPA goals, assisting in the statistical treatment o the collected data;
-            - Organization and promotion of maintenance in the CPA databases, and collaboration in writing and formatting CPA reports.
+          <br>
+          Uma grande contribuição durante o estágio foi o conjunto de melhorias
+          feito no sistema de avaliação semestral da CPA, que é um sistema web
+          com arquitetura model-view-control programado em Groovy e Java, e 
+          utilizando um banco de dados MySQL.
+          <br>
+          As responsabilidades durante esse estágio incluíram:
+            - Auxílio no planejamento, organização e encaminhamento das decisões da comissão;
+            - Implementação e manutenção de sistemas utilizando HTML, CSS, PHP, JavaScript e SQL databases;
+            - Manutenção e atualização dos sistemas web da CPA;
+            - Assessoria aos membros da CPA, coletando informações necessárias para atingir as metas da CPA, auxiliando no tratamento estatístico dos dados coletados;
+            - Organização e promoção da manutenção nos bancos de dados do CPA e colaboração na redação e formatação dos relatórios da CPA.
 
   projects:
       title: Projetos
       intro: >
-        Current projects are AgroPreços and Eloagro, the applications developed 
-        in a team effort with the other founding members of Hectares.
-        Some past projects include the contributions made to CAECOM-UNIVASF creating
-        and mantaining their website, also the project busComfort developed for SBESC 2019 
-        Embedded Systems Competition.
+        Projetos atuais em desenvolvimento são o AgroPreços e o Eloagro, 
+        aplicações desenvolvidas em equipe com os outros membros fundadores
+        da Hectares.
+        <br>
+        Alguns projetos anteriores incluem as contribuições feitas criando e
+        mantendo o website do CAECOM-UNIVASF, e também o projeto busComfort,
+        desenvolvido para a Competição de Sistemas Embarcados da SBESC 2019.
       assignments:
         - title: busComfort
           link: "https://gitlab.com/buscomfort/"
-          tagline: "Embedded system created for public transportation buses, focused in monitoring the comfort level during bus rides. Embedded modules programmed in C++ and Monitoring System mainly in JavaScript."
+          tagline: "Sistema embarcado criado para ônibus do transporte público, focado em monitoramento do nível de conforto durante viagens de ônibus. Módulos embarcados programados em C++, e Sistema Supervisório programado principalmente em JavaScript."
         
         - title: AgroPreços
           link: "https://hectares.tech/agroprecos/"
-          tagline: "Single page application exibiting the commercial data of agricultural crops obtained from Brazil's agricultural supply centers (CEASA). Developed using Quasar (Vue and JavaScript)."
+          tagline: "Aplicativo de página única que exibe os dados comerciais de culturas agrícolas obtidos das centrais de abastecimento agrícola do Brasil (CEASAs). Desenvolvido utilizando o framework Quasar (Vue &amp; JavaScript)."
         
         - title: Eloagro (in development)
           link: "#"
-          tagline: "Platform for buyers and sellers of agricultural crops to negotiate fruits and vegetables. Android application developed using Quasar (Vue and JavaScript) with backend in Laravel (PHP)."
+          tagline: "Plataforma para compradores e vendedores de culturas agrícolas negociarem frutas, legumes e verduras. Aplicação Android desenvolvida usando o framework Quasar (Vue &amp; JavaScript) com back-end  em Laravel (PHP)."
 
         - title: CAECOM-UNIVASF Website
           link: "https://caecom.github.io/"
-          tagline: "A website for the representative body of students of Univasf's Computer Engineering course. Developed using Jekyll static site generator with a custom template based in free Moon theme.s"
+          tagline: "Um website feito para o centro acadêmico dos estudantes do curso de Engenharia de Computação da Univasf. Desenvolvido com o gerador de sistes estáticos Jekyll, com modelo personalizado baseado no tema Moon, um tema livre para Jekyll."
 
   # publications:
   #     title: Publicações

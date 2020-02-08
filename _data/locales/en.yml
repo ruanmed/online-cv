@@ -9,7 +9,7 @@ en:
 
       # Profile information
       name: Ruan Bahia
-      tagline: Software Developerr
+      tagline: Software Developer
       avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
       # Sidebar links
@@ -46,9 +46,14 @@ en:
   career-profile:
       title: Career Profile
       summary: | # Summarise your career here 
-        Experience in several programming languages for desktop, web, mobile and embedded.
-        Experience in Data Mining, and also Text Mining with focus in Author Profiling, using Python.
-        Interested in developing multiplatform systems and applications of Data and Text Mining.
+        Experience in several programming languages for desktop, web, mobile
+        and embedded.
+        <br>
+        Experience in Data Mining, and also Text Mining with focus in Author 
+        Profiling, using Python.
+        <br>
+        Interested in developing multiplatform systems and applications of
+        Data and Text Mining.
 
   education:
     title: Education
@@ -59,15 +64,17 @@ en:
         details: |
           General knowledge in computer programming, with disciplines focused
           in C, C++ and Java. 
-          Concepts of software engineering developed in theoretical study and
-          developing academic projects in group.
-          Computer architecture and networks knowledge, and development 
+          Concepts of software engineering developed through theoretical study
+          and academic team projects.
+          Computer architecture and networks knowledge, design and development 
           of embedded systems projects during the course.
+          <br>
           Participation in Embedded Systems Competitions promoted in SBESC 
-          2016 and SBESC 2019, with team development of the projects Radar³ and 
-          busComfort.
-          Artificial Inteligence background with focus in Data Mining, 
+          2016 and SBESC 2019, with team development of Radar³ and 
+          busComfort projects.
+          Artificial inteligence background with focus in Data Mining, 
           participating in Data Mining Cup 2019.
+          <br>
           Final course project research about Text Mining, producing the 
           __Research about the performance of Information Retrieval based 
           features for Text Mining tasks__.
@@ -83,7 +90,7 @@ en:
         company: Hectares, Juazeiro
         company_link: https://hectares.tech/
         details: |
-          PHP &amp; Laravel backend development, JavaScript &amp; Vue frontend development.
+          PHP &amp; Laravel back-end development, JavaScript &amp; Vue front-end development.
           DevOps delivery in Digital Ocean droplets.
 
       - role: Computer Engineering Intern
@@ -97,12 +104,14 @@ en:
           [Profa. Dra. Michelle Christini Araújo Vieira](http://lattes.cnpq.br/9372845638085633),
           then president of CPA, and under orientation of 
           [Prof. Dr. Max Santana Rolemberg Farias](http://docentes.univasf.edu.br/max.santana/).
+          <br>
           A major contribution during this internship was the set of improvements
           made to the half-yearly evaluation system of CPA, which is a 
           model-view-control web system programmed in Groovy and Java using a MySQL
           database.
-          Responsabilities during this internship included:
-            - Assisting in planning, organization and forwarding the commission decisions;
+          <br>
+          Responsibilities during this internship included:
+            - Assistance in planning, organization and forwarding the committee's decisions;
             - Implementation and maintenance of systems using HTML, CSS, PHP, JavaScript and SQL databases;
             - Maintenance and update of CPA web systems;
             - Advisement of CPA members by collecting necessary information to achieve CPA goals, assisting in the statistical treatment o the collected data;
@@ -111,11 +120,12 @@ en:
   projects:
       title: Projects
       intro: >
-        Current projects are AgroPreços and Eloagro, the applications developed 
-        in a team effort with the other founding members of Hectares.
-        Some past projects include the contributions made to CAECOM-UNIVASF creating
-        and mantaining their website, also the project busComfort developed for SBESC 2019 
-        Embedded Systems Competition.
+        Current projects in development are AgroPreços and Eloagro, applications 
+        developed in a team effort with the other founding members of Hectares.
+        <br>
+        Some previous projects include the contributions made creating and 
+        mantaining CAECOM-UNIVASF's website, also the project busComfort 
+        developed for SBESC 2019 Embedded Systems Competition.
       assignments:
         - title: busComfort
           link: "https://gitlab.com/buscomfort/"
@@ -123,7 +133,7 @@ en:
         
         - title: AgroPreços
           link: "https://hectares.tech/agroprecos/"
-          tagline: "Single page application exibiting the commercial data of agricultural crops obtained from Brazil's agricultural supply centers (CEASA). Developed using Quasar (Vue and JavaScript)."
+          tagline: "Single-page application exhibiting the commercial data of agricultural crops obtained from Brazil's agricultural supply centers (CEASAs). Developed using Quasar framework (Vue &amp; JavaScript)."
         
         - title: Eloagro (in development)
           link: "#"
@@ -131,7 +141,7 @@ en:
 
         - title: CAECOM-UNIVASF Website
           link: "https://caecom.github.io/"
-          tagline: "A website for the representative body of students of Univasf's Computer Engineering course. Developed using Jekyll static site generator with a custom template based in free Moon theme.s"
+          tagline: "A website for the representative body of students of Univasf's Computer Engineering course. Developed using Jekyll static site generator with a custom template based in the free Moon theme for Jekyll."
 
   # publications:
   #     title: Publications
