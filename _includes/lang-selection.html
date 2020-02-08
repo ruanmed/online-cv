@@ -1,4 +1,6 @@
+{% assign t = site.data.locales[page.lang][page.lang] %}
 <div class="lang-selection">
+    <i class="fas fa-language" alt="language" title="{{ t.select_language }}" ></i>
     <a class="en" alt="english" title="English" href="{{ site.baseurl }}/">en</a>
     <a class="pt" alt="português" title="Português" href="{{ site.baseurl }}/pt/">pt</a>
 </div>

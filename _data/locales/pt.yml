@@ -3,6 +3,7 @@
 #
 pt:
   locale_name: "Português"
+  select_language: Selecionar idioma
   sidebar:
       # Profile information
       name: Ruan Bahia
