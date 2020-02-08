@@ -1,0 +1,25 @@
+
+.download-corner:hover .download-arrow {
+    animation:download-wave 200ms ease-in-out
+}
+
+@keyframes download-wave {
+    0%, 100% {
+        transform: matrix(0.707107, 0.707107, -0.707107, 0.707107, 105.233578, -99.513325) rotate(0deg);
+    }
+    20%, 60% {
+        transform: matrix(0.707107, 0.707107, -0.707107, 0.707107, 105.233578, -99.513325) rotate(2deg);
+    }
+    40%, 80% {
+        transform: matrix(0.707107, 0.707107, -0.707107, 0.707107, 105.233578, -99.513325) rotate(-2deg);
+    }
+}
+
+@media (max-width:500px) {
+    .github-corner:hover .download-arrow{
+        animation: none
+    }
+    .github-corner .download-arrow{
+        animation: download-wave 200ms ease-in-out
+    }
+}

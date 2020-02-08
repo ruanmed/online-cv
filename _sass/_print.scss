@@ -1,39 +1,56 @@
-@media print
-   {
-    @page {
-        size: A4;
-    }
-    body {
-       font-size: 12pt;
-    }
-
-    img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
-    }
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
+@media print {
+	@page {
+		size: A4;
+		margin: 25mm 25mm 25mm 25mm;
+	}
+	body {
+		font-size: 12pt;
+		padding: 0mm !important;
+		margin: 0mm !important;
+	}
+   h2, h3 {
+      font-weight: bold !important;
    }
-    .sidebar-wrapper {
-        position: static;
-        float: right;
-        width: 40%;
-        -webkit-print-color-adjust: exact; 
-    }
-
-    .remove-container.container-block {
-       display: none;
-    }
-
-    footer {
-       display: none;
-    }
-
-    .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
-    }
-
+	img.avatar {
+		filter: grayscale(1);
+		-webkit-filter: greyscale(1);
+	}
+	.wrapper {
+		padding: 0mm !important;
+		margin: 0mm !important;
+	}
+	.main-wrapper {
+		padding: 0mm !important;
+		padding-right: 0mm !important;
+		.time {
+			float: right;
+			color: black !important;
+			-webkit-print-color-adjust: exact;
+         color-adjust: exact;    // For Firefox
+		}
+	}
+	.sidebar-wrapper {
+		position: static;
+		float: right;
+		width: 40%;
+		-webkit-print-color-adjust: exact;
+	}
+	.container-block {
+		padding-top: 5mm !important;
+		padding-bottom: 5mm !important;
+	}
+	.remove-container {
+		display: none;
+	}
+	.no-link::after {
+		content: none !important;
+	}
+	footer {
+		display: none;
+	}
+	.skillset .level-bar-inner {
+		background-color: black !important;
+		-webkit-print-color-adjust: exact;
+      color-adjust: exact;    // For Firefox
+	}
 }

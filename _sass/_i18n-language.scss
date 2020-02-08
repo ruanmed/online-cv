@@ -1,0 +1,17 @@
+.lang-selection {
+    position: relative;
+    text-align: right;
+    .fas, .fab {
+        margin-right: 5px;
+        font-size: 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: #42a8c0;
+    }
+}
+
+:lang(en) .lang-selection .en, :lang(pt) .lang-selection .pt {
+    color: #2d7788 !important;
+    font-weight: bold;
+}
