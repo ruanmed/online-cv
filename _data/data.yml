@@ -42,8 +42,8 @@ career-profile:
     title: Career Profile
     summary: |
       Experience in several programming languages for desktop, web, mobile and embedded.
-      Experience in Data Mining, and also Text Mining, using Python.
-      Interested in multiplatform system development and applications of Data Mining.
+      Experience in Data Mining, and also Text Mining with focus in Author Profiling, using Python.
+      Interested in multiplatform system development and applications of Data and Text Mining.
 
 # Summarise your career here lorem ipsum dolor sit amet, consectetuer
 # adipiscing elit. You can [download this free resume/CV template here]().
@@ -63,7 +63,7 @@ education:
         developing academic projects in group.
         Computer architecture and networks knowledge, and development 
         of embedded systems projects during the course.
-        Participation in the Embedded Systems competitions promoted in SBESC 
+        Participation in Embedded Systems Competitions promoted in SBESC 
         2016 and SBESC 2019, with team development of the projects Radar³ and 
         busComfort.
         Artificial Inteligence background with focus in Data Mining, 
@@ -112,8 +112,8 @@ projects:
       Current projects are AgroPreços and Eloagro, the applications developed 
       in a team effort with the other founding members of Hectares.
       Some past projects include the contributions made to CAECOM-UNIVASF creating
-      and mantaining their website, also the busComfort developed to the SBESC 2019 
-      Embedded Systems competition.
+      and mantaining their website, also the project busComfort developed for SBESC 2019 
+      Embedded Systems Competition.
     assignments:
       - title: busComfort
         link: "https://gitlab.com/buscomfort/"
