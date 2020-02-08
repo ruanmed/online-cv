@@ -5,7 +5,7 @@
   <div class="profile-container">
 
     {% if sidebar.name %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar.image }}" alt="{{ sidebar.avatar.alt }}" />
     {% endif %}
 
     {% if sidebar.name %}

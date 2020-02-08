@@ -4,27 +4,12 @@
 pt:
   locale_name: "Português"
   sidebar:
-      about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-      education: False # set to False if you want education in main section instead of in sidebar
-
       # Profile information
       name: Ruan Bahia
       tagline: Desenvolvedor de Software
-      avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-      # Sidebar links
-      email: ruanmed@live.com
-      phone: +55 74 99930-3028
-      website: ruanmed.github.io #do not add http://
-      linkedin: ruanmed
-      github: ruanmed
-      gitlab: ruanmed
-  #    bitbucket: ruanmed
-  #    twitter: '@ruanmed'
-  #    stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #    codewars:
-  #    goodreads: # Number-Username, e.g. 123456-alandoe
-
+      avatar: 
+        image: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+        alt: foto de perfil
       languages:
         title: Idiomas
         languages:
