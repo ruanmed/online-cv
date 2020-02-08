@@ -1,13 +1,14 @@
-{% assign languages = site.data.data.sidebar.languages %}
+{% assign t = site.data.locales[page.lang][page.lang] %}
+{% assign languages = t.sidebar.languages %}
 {% if languages %}
 <div class="languages-container container-block">
 
   <h2 class="container-block-title">
-    Languages
+    {{ languages.title }}
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for language in languages %}
+    {%for language in languages.languages %}
     <li>
       {{ language.idiom }}
       <span class="lang-desc">({{ language.level }})</span>

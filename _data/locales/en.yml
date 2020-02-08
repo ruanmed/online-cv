@@ -1,0 +1,187 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+en:
+  locale_name: "English"
+  sidebar:
+      about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+      education: False # set to False if you want education in main section instead of in sidebar
+
+      # Profile information
+      name: Ruan Bahia
+      tagline: Software Developerr
+      avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+      # Sidebar links
+      email: ruanmed@live.com
+      phone: +55 74 99930-30282
+      website: ruanmed.github.io #do not add http://
+      linkedin: ruanmed
+      github: ruanmed
+      gitlab: ruanmed
+  #    bitbucket: ruanmed
+  #    twitter: '@ruanmed'
+  #    stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #    codewars:
+  #    goodreads: # Number-Username, e.g. 123456-alandoe
+
+      languages:
+        title: Languages
+        languages:
+          - idiom: Portuguese
+            level: Native
+
+          - idiom: English
+            level: Professional
+
+      interests:
+        title: Hobbies
+        interests:
+          - item: Ballroom dance
+            link:
+
+          - item: CS:GO esport
+            link: https://www.hltv.org
+
+  career-profile:
+      title: Career Profile
+      summary: | # Summarise your career here 
+        Experience in several programming languages for desktop, web, mobile and embedded.
+        Experience in Data Mining, and also Text Mining with focus in Author Profiling, using Python.
+        Interested in developing multiplatform systems and applications of Data and Text Mining.
+
+  education:
+    title: Education
+    graduations:
+      - degree: BEng Computer Engineering
+        university: Federal University of Vale do São Francisco (Univasf)
+        time: 2014 - 2020
+        details: |
+          General knowledge in computer programming, with disciplines focused
+          in C, C++ and Java. 
+          Concepts of software engineering developed in theoretical study and
+          developing academic projects in group.
+          Computer architecture and networks knowledge, and development 
+          of embedded systems projects during the course.
+          Participation in Embedded Systems Competitions promoted in SBESC 
+          2016 and SBESC 2019, with team development of the projects Radar³ and 
+          busComfort.
+          Artificial Inteligence background with focus in Data Mining, 
+          participating in Data Mining Cup 2019.
+          Final course project research about Text Mining, producing the 
+          __Research about the performance of Information Retrieval based 
+          features for Text Mining tasks__.
+            - [busComfort](https://gitlab.com/buscomfort/)
+            - [DMC 2019 - Participation](https://gitlab.com/jramorim1/dmc-2019---univasf/)
+            - [Research on the performance of Information Retrieval based features for Text Mining tasks](https://github.com/ruanmed/tcc-ii-ir-features-text-mining/)
+
+  experiences:
+    title: Experiences
+    experiences:
+      - role: Software Developer
+        time: 2019 - present
+        company: Hectares, Juazeiro
+        company_link: https://hectares.tech/
+        details: |
+          PHP &amp; Laravel backend development, JavaScript &amp; Vue frontend development.
+          DevOps delivery in Digital Ocean droplets.
+
+      - role: Computer Engineering Intern
+        time: 2018 - 2019
+        company: Committee for Assessment (CPA/Univasf), Federal University of Vale do São Francisco, Juazeiro 
+        company_link: http://www.cpa.univasf.edu.br/
+        details: |
+          Subsidy for the actions of the commission which required specialized 
+          assistance in the area of Computer Engineering, including the development
+          and maintenance of the commission's own systems, under supervision of
+          [Profa. Dra. Michelle Christini Araújo Vieira](http://lattes.cnpq.br/9372845638085633),
+          then president of CPA, and under orientation of 
+          [Prof. Dr. Max Santana Rolemberg Farias](http://docentes.univasf.edu.br/max.santana/).
+          A major contribution during this internship was the set of improvements
+          made to the half-yearly evaluation system of CPA, which is a 
+          model-view-control web system programmed in Groovy and Java using a MySQL
+          database.
+          Responsabilities during this internship included:
+            - Assisting in planning, organization and forwarding the commission decisions;
+            - Implementation and maintenance of systems using HTML, CSS, PHP, JavaScript and SQL databases;
+            - Maintenance and update of CPA web systems;
+            - Advisement of CPA members by collecting necessary information to achieve CPA goals, assisting in the statistical treatment o the collected data;
+            - Organization and promotion of maintenance in the CPA databases, and collaboration in writing and formatting CPA reports.
+
+  projects:
+      title: Projects
+      intro: >
+        Current projects are AgroPreços and Eloagro, the applications developed 
+        in a team effort with the other founding members of Hectares.
+        Some past projects include the contributions made to CAECOM-UNIVASF creating
+        and mantaining their website, also the project busComfort developed for SBESC 2019 
+        Embedded Systems Competition.
+      assignments:
+        - title: busComfort
+          link: "https://gitlab.com/buscomfort/"
+          tagline: "Embedded system created for public transportation buses, focused in monitoring the comfort level during bus rides. Embedded modules programmed in C++ and Monitoring System mainly in JavaScript."
+        
+        - title: AgroPreços
+          link: "https://hectares.tech/agroprecos/"
+          tagline: "Single page application exibiting the commercial data of agricultural crops obtained from Brazil's agricultural supply centers (CEASA). Developed using Quasar (Vue and JavaScript)."
+        
+        - title: Eloagro (in development)
+          link: "#"
+          tagline: "Platform for buyers and sellers of agricultural crops to negotiate fruits and vegetables. Android application developed using Quasar (Vue and JavaScript) with backend in Laravel (PHP)."
+
+        - title: CAECOM-UNIVASF Website
+          link: "https://caecom.github.io/"
+          tagline: "A website for the representative body of students of Univasf's Computer Engineering course. Developed using Jekyll static site generator with a custom template based in free Moon theme.s"
+
+  # publications:
+  #     title: Publications
+  #     intro: |
+  #       You can list your publications in this section. Lorem ipsum dolor sit
+  #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #       bibendum fringilla a eu lectus.
+  #     papers:
+  #       - title: The Art of Computer Programming
+  #         link: "#"
+  #         authors: Donald E. Knuth
+  #         conference: Addison-Wesley, 1968
+
+  #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  #         link: "#"
+  #         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  #       - title: A syntax directed compiler for Algol 60
+  #         link: "#"
+  #         authors: Edgar T. Irons
+  #         conference: "Comm. ACM 4 (1961), 51–55"
+
+  skills:
+      title: Skills &amp; Proficiency
+
+      toolset:
+        - name: C++
+          level: 80%
+
+        - name: Python
+          level: 75%
+
+        - name: PHP & Laravel
+          level: 65%
+
+        - name: JavaScript & Vue
+          level: 50%
+
+        - name: HTML5 & CSS
+          level: 50%
+
+        - name: MySQL/MariaDB
+          level: 70%
+
+        - name: Elasticsearch
+          level: 40%
+
+        - name: ArangoDB
+          level: 40%
+
+  footer: >
+      Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
