@@ -41,12 +41,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experience in several programming languages for desktop, web, mobile and embedded.
+      Experience in Data Mining, and also Text Mining, using Python.
+      Interested in multiplatform system development and applications of Data Mining.
+
+# Summarise your career here lorem ipsum dolor sit amet, consectetuer
+# adipiscing elit. You can [download this free resume/CV template here]().
+# Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+# penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+# Donec quam felis, ultricies nec, pellentesque eu.
+# Second paragraph if required.
 
 education:
     - degree: BEng Computer Engineering
@@ -55,9 +59,9 @@ education:
       details: |
         General knowledge in computer programming, with disciplines focused
         in C, C++ and Java. 
-        Concepts of software engineering developed in theorical study and
-        group academic project.
-        Also, computer architecture and networks knowledge, and development 
+        Concepts of software engineering developed in theoretical study and
+        developing academic projects in group.
+        Computer architecture and networks knowledge, and development 
         of embedded systems projects during the course.
         Participation in the Embedded Systems competitions promoted in SBESC 
         2016 and SBESC 2019, with team development of the projects Radar³ and 
@@ -68,7 +72,8 @@ education:
         __Research about the performance of Information Retrieval based 
         features for Text Mining tasks__.
           - [busComfort](https://gitlab.com/buscomfort/)
-          - [Research on the performance of Information Retrieval based features for Text Mining tasks](https://github.com/ruanmed/tcc-ii-ir-features-text-mining)
+          - [DMC 2019 - Participation](https://gitlab.com/jramorim1/dmc-2019---univasf/)
+          - [Research on the performance of Information Retrieval based features for Text Mining tasks](https://github.com/ruanmed/tcc-ii-ir-features-text-mining/)
 
 experiences:
     - role: Software Developer
@@ -76,7 +81,7 @@ experiences:
       company: Hectares, Juazeiro
       company_link: https://hectares.tech/
       details: |
-        PHP &amp; Laravel backend development, Javascript &amp; Vue frontend development.
+        PHP &amp; Laravel backend development, JavaScript &amp; Vue frontend development.
         DevOps delivery in Digital Ocean droplets.
 
     - role: Computer Engineering Intern
@@ -96,7 +101,7 @@ experiences:
         database.
         Responsabilities during this internship included:
           - Assisting in planning, organization and forwarding the commission decisions;
-          - Implementation and maintenance of systems using HTML, CSS, PHP, Javascript and SQL databases;
+          - Implementation and maintenance of systems using HTML, CSS, PHP, JavaScript and SQL databases;
           - Maintenance and update of CPA web systems;
           - Advisement of CPA members by collecting necessary information to achieve CPA goals, assisting in the statistical treatment o the collected data;
           - Organization and promotion of maintenance in the CPA databases, and collaboration in writing and formatting CPA reports.
@@ -104,47 +109,49 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Current projects are AgroPreços and Eloagro, the applications developed 
+      in a team effort with the other founding members of Hectares.
+      Some past projects include the contributions made to CAECOM-UNIVASF creating
+      and mantaining their website, also the busComfort developed to the SBESC 2019 
+      Embedded Systems competition.
     assignments:
       - title: busComfort
-        link: "https://gitlab.com/buscomfort"
-        tagline: "Embedded system created for public transportation buses, focused in monitoring the comfort level during bus rides."
-
-      - title: Tempo
+        link: "https://gitlab.com/buscomfort/"
+        tagline: "Embedded system created for public transportation buses, focused in monitoring the comfort level during bus rides. Embedded modules programmed in C++ and Monitoring System mainly in JavaScript."
+      
+      - title: AgroPreços
+        link: "https://hectares.tech/agroprecos/"
+        tagline: "Single page application exibiting the commercial data of agricultural crops obtained from Brazil's agricultural supply centers (CEASA). Developed using Quasar (Vue and JavaScript)."
+      
+      - title: Eloagro (in development)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Platform for buyers and sellers of agricultural crops to negotiate fruits and vegetables. Android application developed using Quasar (Vue and JavaScript) with backend in Laravel (PHP)."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: CAECOM-UNIVASF Website
+        link: "https://caecom.github.io/"
+        tagline: "A website for the representative body of students of Univasf's Computer Engineering course. Developed using Jekyll static site generator with a custom template based in free Moon theme.s"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -159,7 +166,7 @@ skills:
       - name: PHP & Laravel
         level: 65%
 
-      - name: Javascript & Vue
+      - name: JavaScript & Vue
         level: 50%
 
       - name: HTML5 & CSS
