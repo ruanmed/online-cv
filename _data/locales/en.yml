@@ -27,7 +27,7 @@ en:
             link:
 
           - item: Homelab
-            link:
+            link: https://reddit.com/r/homelab/
 
           - item: CS:GO esport
             link: https://www.hltv.org
@@ -104,8 +104,23 @@ en:
   experiences:
     title: Experiences
     experiences:
+      - role: Software Engineer
+        time: 2021 - presente
+        company: FADE (Projeto CIn-Motorola), Recife
+        company_link: https://fade.org.br/
+        details: |
+          Software engineer working in a software testing team, responsible for automating test cases using Python,
+          developing scripts in Python, Shell, Batch and JavaScript, and maintaining automated test 
+          suites their executions in continuous integration software (Jenkins).
+          <br />
+          Execution of manual and automatic test cases and reporting issues found with reproduction steps.
+          <br />
+          Maintenance and development of web-based software using HTML, CSS, JavaScript, Python and Flask framework.
+          <br />
+          Administration of Linux servers remotely via SSH, and creation of automatic Ansible routines (Ansible playbooks).
+
       - role: Software Developer
-        time: 2019 - present
+        time: 2019 - 2021
         company: Hectares, Juazeiro
         company_link: https://hectares.tech/
         details: |
