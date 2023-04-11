@@ -8,7 +8,7 @@ en:
       # Profile information
       name: Ruan Bahia
       tagline: Software Engineer
-      avatar: 
+      avatar:
         image: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
         alt: profile picture
       languages:
@@ -34,10 +34,10 @@ en:
 
   career-profile:
       title: Career Profile
-      summary: | # Summarise your career here 
+      summary: | # Summarise your career here
         Specialized in software testing with experience in automation of tests,
         extensive experience in programming using Python, creating and deploying
-        Python packages composing an automation framework to be installed in 
+        Python packages composing an automation framework to be installed in
         multiple servers via Jenkins CI/CD jobs.
         Also using Python for automation of test cases and creation of automated
         test suites for Android mobile devices.
@@ -45,7 +45,7 @@ en:
         Experience in several programming languages for desktop, web, mobile
         and embedded.
         <br />
-        Experience in Data Mining, and also Text Mining with focus in Author 
+        Experience in Data Mining, and also Text Mining with focus in Author
         Profiling, using Python.
         <br />
         Interested in developing multiplatform systems and applications of
@@ -55,47 +55,47 @@ en:
 
   education:
     title: Education
-    graduations:     
+    graduations:
       - degree: Software Residency Specialization - Software Testing
         university: Federal University of Pernambuco
         time: 2020 - 2021
         details: |
           Specialization course focused in Software Testing, with on hands practice
-          of the fields of software testing with a internship in CIn-Motorola project, 
+          of the fields of software testing with a internship in CIn-Motorola project,
           a 3rd-party contractor of Motorola focused on testing of the Motorola phone
           prototypes products before and after market release.
           <br />
-          In-depth knowledge of software testing with theoretical study of software 
-          testing fundamentals, software development process, software quality, software 
-          analysis and design, project management, requirements engineering, object 
-          orientation using Java and Android, cellular networks, information retrieval 
+          In-depth knowledge of software testing with theoretical study of software
+          testing fundamentals, software development process, software quality, software
+          analysis and design, project management, requirements engineering, object
+          orientation using Java and Android, cellular networks, information retrieval
           and complex data mining.
           <br />
-          Final course monograph project research about classification of failures in 
+          Final course monograph project research about classification of failures in
           automatic test case executions:
-          __Auxiliary Software Tool to Help in Classification of Failures in Automatic 
+          __Auxiliary Software Tool to Help in Classification of Failures in Automatic
           Test Case Executions for Software in Mobile Products__.
-  
+
 
       - degree: BEng Computer Engineering
         university: Federal University of Vale do São Francisco (Univasf)
         time: 2014 - 2020
         details: |
           General knowledge in computer programming, with disciplines focused
-          in C, C++ and Java. 
+          in C, C++ and Java.
           Concepts of software engineering developed through theoretical study
           and academic team projects.
-          Computer architecture and networks knowledge, design and development 
+          Computer architecture and networks knowledge, design and development
           of embedded systems projects during the course.
           <br />
-          Participation in Embedded Systems Competitions promoted in SBESC 
-          2016 and SBESC 2019, with team development of Radar³ and 
+          Participation in Embedded Systems Competitions promoted in SBESC
+          2016 and SBESC 2019, with team development of Radar³ and
           busComfort projects.
-          Artificial inteligence background with focus in Data Mining, 
+          Artificial inteligence background with focus in Data Mining,
           participating in Data Mining Cup 2019.
           <br />
-          Final course project research about Text Mining, producing the 
-          __Research about the performance of Information Retrieval based 
+          Final course project research about Text Mining, producing the
+          __Research about the performance of Information Retrieval based
           features for Text Mining tasks__.
             - [busComfort](https://gitlab.com/buscomfort/)
             - [DMC 2019 - Participation](https://gitlab.com/jramorim1/dmc-2019---univasf/)
@@ -104,13 +104,13 @@ en:
   experiences:
     title: Experiences
     experiences:
-      - role: Software Engineer
+      - role: Software Engineer / Quality Assurance Analyst
         time: 2021 - presente
         company: FADE (Projeto CIn-Motorola), Recife
         company_link: https://fade.org.br/
         details: |
           Software engineer working in a software testing team, responsible for automating test cases using Python,
-          developing scripts in Python, Shell, Batch and JavaScript, and maintaining automated test 
+          developing scripts in Python, Shell, Batch and JavaScript, and maintaining automated test
           suites their executions in continuous integration software (Jenkins).
           <br />
           Execution of manual and automatic test cases and reporting issues found with reproduction steps.
@@ -129,18 +129,18 @@ en:
 
       - role: Computer Engineering Intern
         time: 2018 - 2019
-        company: Committee for Assessment (CPA/Univasf), Federal University of Vale do São Francisco, Juazeiro 
+        company: Committee for Assessment (CPA/Univasf), Federal University of Vale do São Francisco, Juazeiro
         company_link: http://www.cpa.univasf.edu.br/
         details: |
-          Subsidy for the actions of the commission which required specialized 
+          Subsidy for the actions of the commission which required specialized
           assistance in the area of Computer Engineering, including the development
           and maintenance of the commission's own systems, under supervision of
           [Profa. Dra. Michelle Christini Araújo Vieira](http://lattes.cnpq.br/9372845638085633),
-          then president of CPA, and under orientation of 
+          then president of CPA, and under orientation of
           [Prof. Dr. Max Santana Rolemberg Farias](http://docentes.univasf.edu.br/max.santana/).
           <br />
           A major contribution during this internship was the set of improvements
-          made to the half-yearly evaluation system of CPA, which is a 
+          made to the half-yearly evaluation system of CPA, which is a
           model-view-control web system programmed in Groovy and Java using a MySQL
           database.
           <br />
@@ -154,21 +154,21 @@ en:
   projects:
       title: Projects
       intro: >
-        Previous projects were AgroPreços and Eloagro, applications 
+        Previous projects were AgroPreços and Eloagro, applications
         developed in a team effort with the other founding members of Hectares.
         <br />
-        Some previous projects include the contributions made creating and 
-        mantaining CAECOM-UNIVASF's website, also the project busComfort 
+        Some previous projects include the contributions made creating and
+        mantaining CAECOM-UNIVASF's website, also the project busComfort
         developed for SBESC 2019 Embedded Systems Competition.
       assignments:
         - title: busComfort
           link: "https://gitlab.com/buscomfort/"
           tagline: "Embedded system created for public transportation buses, focused in monitoring the comfort level during bus rides. Embedded modules programmed in C++ and Monitoring System mainly in JavaScript."
-        
+
         - title: AgroPreços (discontinued in 2021)
           link: "#"
           tagline: "Single-page application exhibiting the commercial data of agricultural crops obtained from Brazil's agricultural supply centers (CEASAs). Developed using Quasar framework (Vue &amp; JavaScript). Launched into operation in 2019, discontinued in 2021."
-        
+
         - title: Eloagro (discontinued in 2021)
           link: "#"
           tagline: "Platform for buyers and sellers of agricultural crops to negotiate fruits and vegetables. Android application developed using Quasar (Vue and JavaScript) with backend in Laravel (PHP). Launched into operation in 2020, discontinued in 2021."
@@ -206,20 +206,32 @@ en:
         - name: Python
           level: 90%
 
+        - name: Git
+          level: 100%
+
+        - name: Docker
+          level: 50%
+
+        - name: Ansible
+          level: 50%
+
+        - name: Jenkins
+          level: 50%
+
         - name: C++
           level: 70%
 
         - name: PHP & Laravel
           level: 65%
 
-        - name: JavaScript & Vue
-          level: 50%
-
         - name: HTML5 & CSS
           level: 60%
 
         - name: MySQL/MariaDB
           level: 70%
+
+        - name: JavaScript & Vue
+          level: 40%
 
         - name: Elasticsearch
           level: 40%

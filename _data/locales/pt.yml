@@ -8,7 +8,7 @@ pt:
       # Profile information
       name: Ruan Bahia
       tagline: Engenheiro de Software
-      avatar: 
+      avatar:
         image: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
         alt: foto de perfil
       languages:
@@ -34,21 +34,21 @@ pt:
 
   career-profile:
       title: Perfil Profissional
-      summary: | # Summarise your career here 
+      summary: | # Summarise your career here
         Especializado em testes de software com foco em automação de testes,
         vasta experiência em programação usando Python, criando e implantando
         pacotes Python compondo um framework de automação a ser instalado em
         vários servidores por meio de trabalhos Jenkins CI/CD.
-        Também utilizando Python para automação de casos de teste e criação 
+        Também utilizando Python para automação de casos de teste e criação
         de suites de teste automatizadas para dispositivos móveis Android.
         <br />
-        Experiência em diversas linguagens de programação web, desktop, 
-        móveis e embarcadas. 
+        Experiência em diversas linguagens de programação web, desktop,
+        móveis e embarcadas.
         <br />
         Experiência em Mineração de Dados, e também em Mineração de Texto
-        com foco em Perfis de Autoria, utilizando Python. 
+        com foco em Perfis de Autoria, utilizando Python.
         <br />
-        Interessado no desenvolvimento de sistemas multiplataforma e 
+        Interessado no desenvolvimento de sistemas multiplataforma e
         aplicações de Mineração de Dados e de Textos.
         <br />
         nteressado em DevOps e Administração e Virtualização de Sistemas Linux.
@@ -61,21 +61,21 @@ pt:
         university: Universidade Federal do Pernambuco
         time: 2020 - 2021
         details: |
-          Curso de especialização lato sensu de Residência em Software com ênfase em 
+          Curso de especialização lato sensu de Residência em Software com ênfase em
           Teste de Software. Com carga horária prática na área de teste de software no
           mercado por meio do estágio em paralelo no projeto CIn-Motorola, uma terceirizada
-          da Motorola focada no teste dos protótipos de celular e outros produtos da 
+          da Motorola focada no teste dos protótipos de celular e outros produtos da
           Motorola, antes e depois do lançamento dos produtos no mercado.
           <br />
-          Conhecimento aprofundado em teste de software com estudo teórico dos fundamentos 
-          de teste de software, do processo de desenvolvimento de software, qualidade de 
+          Conhecimento aprofundado em teste de software com estudo teórico dos fundamentos
+          de teste de software, do processo de desenvolvimento de software, qualidade de
           software, análise e projeto de software, gerenciamento de projetos, engenharia de
-          requisitos, orientação a objetos com Java e Android, redes celulares, recuperação 
+          requisitos, orientação a objetos com Java e Android, redes celulares, recuperação
           de informação e mineração de dados complexos.
           <br />
-          Monografia final de conclusão do curso sobre classificação de falhas em execuções 
+          Monografia final de conclusão do curso sobre classificação de falhas em execuções
           automatizadas de casos de teste:
-          __Auxiliary Software Tool to Help in Classification of Failures in Automatic Test 
+          __Auxiliary Software Tool to Help in Classification of Failures in Automatic Test
           Case Executions for Software in Mobile Products__.
 
       - degree: B.el em Engenharia de Computação
@@ -84,20 +84,20 @@ pt:
         details: |
           Conhecimento geral em programação de computadores, com disciplinas
           focadas em C, C++ e Java.
-          Conceitos de engenharia de software desenvolvidos por meio de 
+          Conceitos de engenharia de software desenvolvidos por meio de
           estudo teórico e por meio de projetos acadêmicos em equipe.
-          Conhecimento da arquitetura de computadores e de redes de 
-          computadores, projeto e desenvolvimento de sistemas embarcados 
+          Conhecimento da arquitetura de computadores e de redes de
+          computadores, projeto e desenvolvimento de sistemas embarcados
           durante o curso.
           <br />
-          Participação nas Competições de Sistemas Embarcados promovidas na 
-          SBESC 2016 e na SBESC 2019, com o desenvolvimento em equipe dos 
+          Participação nas Competições de Sistemas Embarcados promovidas na
+          SBESC 2016 e na SBESC 2019, com o desenvolvimento em equipe dos
           projetos Radar³ e busComfort.
-          Experiência com inteligência artificial com foco em Mineração de 
-          Dados, participando da Data Mining Cup 2019. 
+          Experiência com inteligência artificial com foco em Mineração de
+          Dados, participando da Data Mining Cup 2019.
           <br />
           Trabalho de conclusão de curso sobre Mineração de Texto, produzindo
-          o __Estudo investigativo sobre o desempenho de atributos de 
+          o __Estudo investigativo sobre o desempenho de atributos de
           Recuperação de Informação em tarefas de Mineração de Texto__.
             - [busComfort](https://gitlab.com/buscomfort/)
             - [DMC 2019 - Participation](https://gitlab.com/jramorim1/dmc-2019---univasf/)
@@ -106,13 +106,13 @@ pt:
   experiences:
     title: Experiência
     experiences:
-      - role: Engenheiro de Software
+      - role: Engenheiro de Software / Analista de Qualidade de Software
         time: 2021 - presente
         company: FADE (Projeto CIn-Motorola), Recife
         company_link: https://fade.org.br/
         details: |
           Engenheiro de software atuando em equipe de teste de software, responsável pela automação de casos de teste
-          utilizando Python, desenvolvimento de scripts em Python, Shell, Batch e JavaScript, e manutenção de suítes 
+          utilizando Python, desenvolvimento de scripts em Python, Shell, Batch e JavaScript, e manutenção de suítes
           de teste automatizadas e suas execuções em software de integração contínua (Jenkins).
           <br />
           Execução de casos de testes manuais e automáticos e emissão de relatórios de reprodução de problemas encontrados.
@@ -132,11 +132,11 @@ pt:
 
       - role: Estagiário de Engenharia de Computação
         time: 2018 - 2019
-        company: Comissão Própria de Avaliação (CPA/Univasf), Universidade Federal do Vale do São Francisco, Juazeiro 
+        company: Comissão Própria de Avaliação (CPA/Univasf), Universidade Federal do Vale do São Francisco, Juazeiro
         company_link: http://www.cpa.univasf.edu.br/
         details: |
           Subsídio para as ações da comissão que necessitavam de assistência
-          especializada na área de Engenharia de Computação, incluindo o 
+          especializada na área de Engenharia de Computação, incluindo o
           desenvolvimento e manutenção dos sistemas próprios da comissão, sob
           supervisão da
           [Profa. Dra. Michelle Christini Araújo Vieira](http://lattes.cnpq.br/9372845638085633),
@@ -145,7 +145,7 @@ pt:
           <br />
           Uma grande contribuição durante o estágio foi o conjunto de melhorias
           feito no sistema de avaliação semestral da CPA, que é um sistema web
-          com arquitetura model-view-control programado em Groovy e Java, e 
+          com arquitetura model-view-control programado em Groovy e Java, e
           utilizando um banco de dados MySQL.
           <br />
           As responsabilidades durante esse estágio incluíram:
@@ -158,8 +158,8 @@ pt:
   projects:
       title: Projetos
       intro: >
-        Projetos passados são o AgroPreços e o Eloagro, 
-        aplicações descontinuadas, que foram desenvolvidas em equipe com os 
+        Projetos passados são o AgroPreços e o Eloagro,
+        aplicações descontinuadas, que foram desenvolvidas em equipe com os
         outros membros fundadores da Hectares.
         <br />
         Outros projetos anteriores incluem as contribuições feitas criando e
@@ -169,11 +169,11 @@ pt:
         - title: busComfort
           link: "https://gitlab.com/buscomfort/"
           tagline: "Sistema embarcado criado para ônibus do transporte público, focado em monitoramento do nível de conforto durante viagens de ônibus. Módulos embarcados programados em C++, e Sistema Supervisório programado principalmente em JavaScript."
-        
+
         - title: AgroPreços (descontinuado em 2021)
           link: "#"
           tagline: "Aplicativo de página única que exibe os dados comerciais de culturas agrícolas obtidos das centrais de abastecimento agrícola do Brasil (CEASAs). Desenvolvido utilizando o framework Quasar (Vue &amp; JavaScript). Lançado em operação em 2019, descontinuado em 2021."
-        
+
         - title: Eloagro (descontinuado em 2021)
           link: "#"
           tagline: "Plataforma para compradores e vendedores de culturas agrícolas negociarem frutas, legumes e verduras. Aplicação Android desenvolvida usando o framework Quasar (Vue &amp; JavaScript) com back-end  em Laravel (PHP). Lançado em operação em 2020, descontinuado em 2021."
@@ -184,7 +184,7 @@ pt:
 
   # publications:
   #     title: Publicações
-  #     intro: |   # You can list your publications in this section. 
+  #     intro: |   # You can list your publications in this section.
   #       Lorem ipsum dolor sit
   #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
   #       bibendum fringilla a eu lectus.
@@ -211,20 +211,32 @@ pt:
         - name: Python
           level: 90%
 
+        - name: Git
+          level: 100%
+
+        - name: Docker
+          level: 50%
+
+        - name: Ansible
+          level: 50%
+
+        - name: Jenkins
+          level: 50%
+
         - name: C++
           level: 70%
 
         - name: PHP & Laravel
           level: 65%
 
-        - name: JavaScript & Vue
-          level: 50%
-
         - name: HTML5 & CSS
           level: 60%
 
         - name: MySQL/MariaDB
           level: 70%
+
+        - name: JavaScript & Vue
+          level: 40%
 
         - name: Elasticsearch
           level: 40%
