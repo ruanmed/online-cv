@@ -119,6 +119,17 @@ en:
           <br />
           Administration of Linux servers remotely via SSH, and creation of automatic Ansible routines (Ansible playbooks).
 
+      - role: Software Residency Intern
+        time: 2020 - 2021
+        company: FADE (Projeto CIn-Motorola), Recife
+        company_link: https://fade.org.br/
+        details: |
+          Execution of manual and automated test cases and reporting issues found with reproduction steps;
+          <br />
+          Automation of test cases using Python and pytest;
+          <br />
+          Development and maintenance of scripts and packages in Python, Shell, Batch and JavaScript.
+
       - role: Software Developer
         time: 2019 - 2021
         company: Hectares, Juazeiro
